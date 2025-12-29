@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.dfm,C:\Documents and Settings\Administrator\My Documents\RAD Studio\Projects\Unit1.dfm=C:\Documents and Settings\Administrator\My Documents\RAD Studio\Projects\SFunkeyUnit.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.pas,S:\SFunkey\SFunKey (Current)\Unit1.pas=S:\SFunkey\SFunKey (Current)\System_Process.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.pas,C:\Documents and Settings\Administrator\Desktop\SFunkey\Unit1.pas=C:\Documents and Settings\Administrator\Desktop\SFunkey\SplashUnit.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.dproj,C:\Documents and Settings\Administrator\My Documents\RAD Studio\Projects\Project1.dproj=C:\Documents and Settings\Administrator\My Documents\RAD Studio\Projects\SFunkey.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.dproj,C:\Documents and Settings\Administrator\My Documents\RAD Studio\Projects\SFunkey.dproj=C:\Documents and Settings\Administrator\Desktop\SFunkey\SFunkey.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.pas,C:\Documents and Settings\Administrator\My Documents\RAD Studio\Projects\Unit1.pas=C:\Documents and Settings\Administrator\My Documents\RAD Studio\Projects\SFunkeyUnit.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.dfm,C:\Documents and Settings\Administrator\Desktop\SFunkey\Unit1.dfm=C:\Documents and Settings\Administrator\Desktop\SFunkey\SplashUnit.dfm</Transaction>
+  </Transactions>
+</BorlandProject>

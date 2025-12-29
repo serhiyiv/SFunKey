@@ -1,0 +1,51 @@
+Hi!
+   SFunKey - is one of my small, yet usefull applications, written in Delphi.
+   Having bought my 1st LapTop I faced with the problem of media buttons. Since not all LapTops have additional media buttons, in most cases you have to use "Fn" key + any other functional key to emulate desired action. It is very inconvenient because you have to use two hands to press these key combinations. 
+   That's why I wrote SFunKey - the application which replaces "Fn +' key combinations.
+     
+ -------- Instructions -------- 
+   Using SFunKey is very easy. For example: if F12 is set to perform "Next Track" action, all you have to do is just DOUBLE PRESS F12 and it will act as "Next Track". If you want "F12" key to act as "F12" just PRESS F12 for 1 time.
+  To make it more clear:
+   F12 + F12 = Next Track
+   F12 = F12
+  That's it.  
+  
+ -------- Settings Explanation -------- 
+ Enable F12 - By default F12 key is reserved by system and you can not use it. Check this option to enable F12.
+ Remember OSD Position - If checked, SFunKey will save OSD window position (you can move OSD window with your mouse).
+ Fade out Delay - Sets how long OSD window is displayed.
+ Key Press Delay - Sets time when default Functional key action is performed.
+
+   
+-------- Licensing --------  
+  By the way, using SFunKey you agree that:
+  1.SIV (Serhiy IVanchuk) is the author of this application and you are not allowed to claim yourself SFunKey's author or sell it in some way.
+  2.SFunKey is distributed as a Free application, that is you do not have to pay for using it (unless you want to make a DONATION). It also means that you are free to use it anywhere. 
+     
+ -------- Additionally --------   
+   If you liked my application and you want to help me make it better, you can make a small DONATION. 
+   Amount does not matter, but any donation will mean that you appreciate my efforts and I'll do my best to add some additional features and improve the whole application.
+   PS. If you can donate via some other sytem than PayPal just let me know :).
+   ThankYou!
+
+   You can send me your comments and suggestions to serhiyiv@yahoo.com
+
+   SIVeX - Feel the Difference.
+   SIVeX is my new File Manager, which is soon to be released. www.sivexplorer.com 
+   
+   
+
+-------- Changes v1.1 -------- 
+- Changed GUI
+- Added HotKey to Enable/Disable SFunKey (Left Windows + S).
+- Added ability to disable SFunKey if specified applications are running.
+- Added Multilingual Support.
+- Added ability to disable OSD.
+- Added new Commands: OpenFile, OpenFolder, Restart, Turn Off, Log Off.
+- You can change OSD Image for "OpenFile" command. For Example, if you assigned F1 to C:\Program Files (x86)\Microsoft Office\Office14\WINWORD.exe, just create WINWORD.exe.png and place it to your current theme folder.   
+- Fixed "LCD Brightness" command.   
+- Added "The Simpsons" theme.   
+   
+
+
+   
